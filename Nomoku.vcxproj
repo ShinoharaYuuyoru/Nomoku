@@ -77,10 +77,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="C:\Users\ShinoharaYuyoru\Desktop\新建文件夹\ANN.cpp" />
+    <ClCompile Include="GA.cpp" />
+    <ClCompile Include="GA_DEBUG.cpp" />
     <ClCompile Include="Nomoku.cpp" />
     <ClCompile Include="pisqpipe.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="GA.h" />
     <ClInclude Include="pisqpipe.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

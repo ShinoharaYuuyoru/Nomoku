@@ -8,7 +8,7 @@ int board[MAX_BOARD][MAX_BOARD];
 static unsigned seed;
 
 
-void brain_init()
+void brain_init()		//Initial
 {
 	if (width<5 || height<5){
 		pipeOut("ERROR size of the board");

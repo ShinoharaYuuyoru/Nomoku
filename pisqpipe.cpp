@@ -54,7 +54,6 @@ static void get_line()
 	if (cmd[bytes - 2] == '\r') cmd[bytes - 2] = 0;
 }
 
-
 /** parse coordinates x,y */
 static int parse_coord(const char *param, int *x, int *y)
 {
@@ -242,7 +241,6 @@ static void do_command()
 		pipeOut("UNKNOWN command");
 	}
 }
-
 
 /** main function for AI console application  */
 int main()

@@ -21,9 +21,21 @@
     <ClCompile Include="Nomoku.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="GA_DEBUG.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\ShinoharaYuyoru\Desktop\新建文件夹\ANN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GA.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pisqpipe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GA.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
